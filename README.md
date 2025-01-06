@@ -2,16 +2,16 @@
 
 ## 🚀 Skills and Tools
 
-- **Bahasa Pemrograman:** HTML, PHP, JavaScript, C#, Java
+- **Programming Languages:** HTML, PHP, JavaScript, C#, Java
 - **Framework & Library:** Node.js
-- **Teknologi:** MySQL, XAMPP
-- **Alat:** Git, VS Code
+- **Technologies:** MySQL, XAMPP
+- **Tools:** Git, VS Code
 ---
 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/firyal-jihan-haura)  
-- 📧 Email: firyaljihanhaura@example.com
+- 📧 Email: haurajihan0108@gmail.com
 ---
 
 ## 📈 GitHub Stats
