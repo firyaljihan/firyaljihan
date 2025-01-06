@@ -1,16 +1,26 @@
-### Hi everyone, I'm Firyal Jihan Haura 👋
+# Hi there, I'm Firyal Jihan Haura! 👋
 
-<!--
-**firyaljihan/firyaljihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills and Tools
 
-Here are some ideas to get you started:
+- **Languages:** HTML, PHP, JavaScript
+- **Frameworks & Libraries:** Node.js
+- **Technologies:** Web Development
+- **Tools:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/firyal-jihan-haura)  
+- 📧 Email: firyaljihanhaura@example.com
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+Thank you for visiting my GitHub profile. Let's innovate together! 🚀
