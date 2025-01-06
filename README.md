@@ -2,17 +2,16 @@
 
 ## 🚀 Skills and Tools
 
-- **Languages:** HTML, PHP, JavaScript
+- **Languages:** HTML, PHP, JavaScript, C#
 - **Frameworks & Libraries:** Node.js
-- **Technologies:** Web Development
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, XAMPP
 
 ---
 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/firyal-jihan-haura)  
-- 📧 Email: firyaljihanhaura@example.com
+- 📧 Email: haurajihan0108@gmail.com
 
 ---
 
